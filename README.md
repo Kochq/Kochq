@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m Mateo Koch </h1>
-<h3 align="center"> Software developer with 2 year of experience in React.Js, Node.Js, Python, PHP, and JavaScript. </h3>
+<h3 align="center"> Software developer with 2 year of experience in PHP, Laravel, Svelte, React.Js & JavaScript. </h3>
 
 - 💡 Passionate about creating efficient web applications and user interfaces using cutting-edge technologies.
 - ✨ Strong attention to detail and commitment to clean and maintainable code.
